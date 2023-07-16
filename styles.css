@@ -134,3 +134,17 @@ hr {
 .footer ul {
     padding-inline-start: 0px;
 }
+
+.link-image {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+.link-image img {
+    max-width: 50%;
+    max-height: 100%;
+    display: block;
+}
